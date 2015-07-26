@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         // Debug line of code
         println("Hello World")
         
-        // New Feature
+        // New Feature kind average
         
     }
 
