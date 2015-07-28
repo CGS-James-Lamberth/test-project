@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         println("Hello World")
         
         // New Feature kind average
+        // Comment
         
     }
 
