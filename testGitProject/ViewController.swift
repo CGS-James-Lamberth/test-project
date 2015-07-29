@@ -23,6 +23,9 @@ class ViewController: UIViewController {
             
                 println("Done")
                 //Comment the code
+            for i in 1..10 {
+                println(i)
+            }
         }
         
     }
