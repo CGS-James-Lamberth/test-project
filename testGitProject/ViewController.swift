@@ -20,6 +20,10 @@ class ViewController: UIViewController {
         // New Feature kind average
         // Comment
         
+        for i ..10 {
+            println(i)
+        }
+        
     }
 
     override func didReceiveMemoryWarning() {
