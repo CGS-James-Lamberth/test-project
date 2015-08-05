@@ -21,6 +21,8 @@ class ViewController: UIViewController {
         // Comment
         func FeatureY() {
             
+                //STASH!
+            
                 println("Done")
                 //Comment the code
             for i in 1...10 {
